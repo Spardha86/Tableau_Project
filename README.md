@@ -1,0 +1,1 @@
+This interactive Tableau dashboard presents a Customer Segmentation Analysis using the RFM (Recency, Frequency, Monetary) model. It is designed to help businesses understand customer purchasing behavior and identify opportunities for targeted marketing and retention strategies.
